@@ -1,0 +1,6 @@
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\CakeIngredients\bin\Debug\CakeIngredients.exe.config
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\CakeIngredients\bin\Debug\CakeIngredients.exe
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\CakeIngredients\bin\Debug\CakeIngredients.pdb
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\CakeIngredients\obj\Debug\CakeIngredients.csprojResolveAssemblyReference.cache
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\CakeIngredients\obj\Debug\CakeIngredients.exe
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\CakeIngredients\obj\Debug\CakeIngredients.pdb

@@ -1,0 +1,5 @@
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\NeighbourWars\bin\Debug\NeighbourWars.exe.config
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\NeighbourWars\bin\Debug\NeighbourWars.exe
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\NeighbourWars\bin\Debug\NeighbourWars.pdb
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\NeighbourWars\obj\Debug\NeighbourWars.exe
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\NeighbourWars\obj\Debug\NeighbourWars.pdb

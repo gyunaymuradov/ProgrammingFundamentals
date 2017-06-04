@@ -1,0 +1,5 @@
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Lab\OddNumber\bin\Debug\OddNumber.exe.config
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Lab\OddNumber\bin\Debug\OddNumber.exe
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Lab\OddNumber\bin\Debug\OddNumber.pdb
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Lab\OddNumber\obj\Debug\OddNumber.exe
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Lab\OddNumber\obj\Debug\OddNumber.pdb

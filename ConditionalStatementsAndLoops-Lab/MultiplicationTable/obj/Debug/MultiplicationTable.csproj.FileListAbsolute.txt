@@ -1,0 +1,5 @@
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Lab\MultiplicationTable\bin\Debug\MultiplicationTable.exe.config
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Lab\MultiplicationTable\bin\Debug\MultiplicationTable.exe
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Lab\MultiplicationTable\bin\Debug\MultiplicationTable.pdb
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Lab\MultiplicationTable\obj\Debug\MultiplicationTable.exe
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Lab\MultiplicationTable\obj\Debug\MultiplicationTable.pdb

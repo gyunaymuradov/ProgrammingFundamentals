@@ -1,0 +1,5 @@
+c:\users\gmura\documents\visual studio 2017\Projects\CSharpIntroAndBasicSyntax-Lab\EmployeeData\bin\Debug\EmployeeData.exe.config
+c:\users\gmura\documents\visual studio 2017\Projects\CSharpIntroAndBasicSyntax-Lab\EmployeeData\bin\Debug\EmployeeData.exe
+c:\users\gmura\documents\visual studio 2017\Projects\CSharpIntroAndBasicSyntax-Lab\EmployeeData\bin\Debug\EmployeeData.pdb
+c:\users\gmura\documents\visual studio 2017\Projects\CSharpIntroAndBasicSyntax-Lab\EmployeeData\obj\Debug\EmployeeData.exe
+c:\users\gmura\documents\visual studio 2017\Projects\CSharpIntroAndBasicSyntax-Lab\EmployeeData\obj\Debug\EmployeeData.pdb

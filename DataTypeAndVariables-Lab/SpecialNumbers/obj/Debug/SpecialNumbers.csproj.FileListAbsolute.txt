@@ -1,0 +1,5 @@
+c:\users\gmura\documents\visual studio 2017\Projects\DataTypeAndVariables-Lab\SpecialNumbers\bin\Debug\SpecialNumbers.exe.config
+c:\users\gmura\documents\visual studio 2017\Projects\DataTypeAndVariables-Lab\SpecialNumbers\bin\Debug\SpecialNumbers.exe
+c:\users\gmura\documents\visual studio 2017\Projects\DataTypeAndVariables-Lab\SpecialNumbers\bin\Debug\SpecialNumbers.pdb
+c:\users\gmura\documents\visual studio 2017\Projects\DataTypeAndVariables-Lab\SpecialNumbers\obj\Debug\SpecialNumbers.exe
+c:\users\gmura\documents\visual studio 2017\Projects\DataTypeAndVariables-Lab\SpecialNumbers\obj\Debug\SpecialNumbers.pdb

@@ -1,0 +1,6 @@
+c:\users\gmura\documents\visual studio 2017\Projects\CSharpIntroAndBasicSyntax-Exercises\DebitCardNumber\bin\Debug\DebitCardNumber.exe.config
+c:\users\gmura\documents\visual studio 2017\Projects\CSharpIntroAndBasicSyntax-Exercises\DebitCardNumber\bin\Debug\DebitCardNumber.exe
+c:\users\gmura\documents\visual studio 2017\Projects\CSharpIntroAndBasicSyntax-Exercises\DebitCardNumber\bin\Debug\DebitCardNumber.pdb
+c:\users\gmura\documents\visual studio 2017\Projects\CSharpIntroAndBasicSyntax-Exercises\DebitCardNumber\obj\Debug\DebitCardNumber.csprojResolveAssemblyReference.cache
+c:\users\gmura\documents\visual studio 2017\Projects\CSharpIntroAndBasicSyntax-Exercises\DebitCardNumber\obj\Debug\DebitCardNumber.exe
+c:\users\gmura\documents\visual studio 2017\Projects\CSharpIntroAndBasicSyntax-Exercises\DebitCardNumber\obj\Debug\DebitCardNumber.pdb

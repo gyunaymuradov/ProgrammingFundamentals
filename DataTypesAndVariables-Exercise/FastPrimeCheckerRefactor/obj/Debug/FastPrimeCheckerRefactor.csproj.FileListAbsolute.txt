@@ -1,0 +1,5 @@
+C:\Users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-Exercise\FastPrimeCheckerRefactor\bin\Debug\FastPrimeCheckerRefactor.exe.config
+C:\Users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-Exercise\FastPrimeCheckerRefactor\bin\Debug\FastPrimeCheckerRefactor.exe
+C:\Users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-Exercise\FastPrimeCheckerRefactor\bin\Debug\FastPrimeCheckerRefactor.pdb
+C:\Users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-Exercise\FastPrimeCheckerRefactor\obj\Debug\FastPrimeCheckerRefactor.exe
+C:\Users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-Exercise\FastPrimeCheckerRefactor\obj\Debug\FastPrimeCheckerRefactor.pdb

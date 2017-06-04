@@ -1,0 +1,6 @@
+C:\Users\gmura\documents\visual studio 2017\Projects\CSharpBasics-MoreExercises\SMSTyping\bin\Debug\SMSTyping.exe.config
+C:\Users\gmura\documents\visual studio 2017\Projects\CSharpBasics-MoreExercises\SMSTyping\bin\Debug\SMSTyping.exe
+C:\Users\gmura\documents\visual studio 2017\Projects\CSharpBasics-MoreExercises\SMSTyping\bin\Debug\SMSTyping.pdb
+C:\Users\gmura\documents\visual studio 2017\Projects\CSharpBasics-MoreExercises\SMSTyping\obj\Debug\SMSTyping.csprojResolveAssemblyReference.cache
+C:\Users\gmura\documents\visual studio 2017\Projects\CSharpBasics-MoreExercises\SMSTyping\obj\Debug\SMSTyping.exe
+C:\Users\gmura\documents\visual studio 2017\Projects\CSharpBasics-MoreExercises\SMSTyping\obj\Debug\SMSTyping.pdb

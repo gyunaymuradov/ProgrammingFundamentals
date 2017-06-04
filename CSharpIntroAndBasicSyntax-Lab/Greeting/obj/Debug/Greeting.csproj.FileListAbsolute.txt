@@ -1,0 +1,6 @@
+c:\users\gmura\documents\visual studio 2017\Projects\CSharpIntroAndBasicSyntax-Lab\Greeting\bin\Debug\Greeting.exe.config
+c:\users\gmura\documents\visual studio 2017\Projects\CSharpIntroAndBasicSyntax-Lab\Greeting\bin\Debug\Greeting.exe
+c:\users\gmura\documents\visual studio 2017\Projects\CSharpIntroAndBasicSyntax-Lab\Greeting\bin\Debug\Greeting.pdb
+c:\users\gmura\documents\visual studio 2017\Projects\CSharpIntroAndBasicSyntax-Lab\Greeting\obj\Debug\Greeting.csprojResolveAssemblyReference.cache
+c:\users\gmura\documents\visual studio 2017\Projects\CSharpIntroAndBasicSyntax-Lab\Greeting\obj\Debug\Greeting.exe
+c:\users\gmura\documents\visual studio 2017\Projects\CSharpIntroAndBasicSyntax-Lab\Greeting\obj\Debug\Greeting.pdb

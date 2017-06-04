@@ -1,0 +1,6 @@
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\WordInPlural\obj\Debug\WordInPlural.csprojResolveAssemblyReference.cache
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\WordInPlural\bin\Debug\WordInPlural.exe.config
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\WordInPlural\bin\Debug\WordInPlural.exe
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\WordInPlural\bin\Debug\WordInPlural.pdb
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\WordInPlural\obj\Debug\WordInPlural.exe
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\WordInPlural\obj\Debug\WordInPlural.pdb

@@ -1,0 +1,5 @@
+C:\Users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\BoatSimulator\bin\Debug\BoatSimulator.exe.config
+C:\Users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\BoatSimulator\bin\Debug\BoatSimulator.exe
+C:\Users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\BoatSimulator\bin\Debug\BoatSimulator.pdb
+C:\Users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\BoatSimulator\obj\Debug\BoatSimulator.exe
+C:\Users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\BoatSimulator\obj\Debug\BoatSimulator.pdb

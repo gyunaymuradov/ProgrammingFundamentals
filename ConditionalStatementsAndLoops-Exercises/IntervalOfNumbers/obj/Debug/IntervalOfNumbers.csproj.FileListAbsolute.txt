@@ -1,0 +1,5 @@
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\IntervalOfNumbers\bin\Debug\IntervalOfNumbers.exe.config
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\IntervalOfNumbers\bin\Debug\IntervalOfNumbers.exe
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\IntervalOfNumbers\bin\Debug\IntervalOfNumbers.pdb
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\IntervalOfNumbers\obj\Debug\IntervalOfNumbers.exe
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\IntervalOfNumbers\obj\Debug\IntervalOfNumbers.pdb

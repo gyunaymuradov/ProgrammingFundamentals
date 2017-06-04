@@ -1,0 +1,5 @@
+C:\Users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\SumOfChars\bin\Debug\SumOfChars.exe.config
+C:\Users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\SumOfChars\bin\Debug\SumOfChars.exe
+C:\Users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\SumOfChars\bin\Debug\SumOfChars.pdb
+C:\Users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\SumOfChars\obj\Debug\SumOfChars.exe
+C:\Users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\SumOfChars\obj\Debug\SumOfChars.pdb

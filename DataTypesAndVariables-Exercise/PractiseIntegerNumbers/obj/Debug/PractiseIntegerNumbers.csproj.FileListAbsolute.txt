@@ -1,0 +1,6 @@
+c:\users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-Exercise\PractiseIntegerNumbers\bin\Debug\PractiseIntegerNumbers.exe.config
+c:\users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-Exercise\PractiseIntegerNumbers\bin\Debug\PractiseIntegerNumbers.exe
+c:\users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-Exercise\PractiseIntegerNumbers\bin\Debug\PractiseIntegerNumbers.pdb
+c:\users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-Exercise\PractiseIntegerNumbers\obj\Debug\PractiseIntegerNumbers.csprojResolveAssemblyReference.cache
+c:\users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-Exercise\PractiseIntegerNumbers\obj\Debug\PractiseIntegerNumbers.exe
+c:\users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-Exercise\PractiseIntegerNumbers\obj\Debug\PractiseIntegerNumbers.pdb

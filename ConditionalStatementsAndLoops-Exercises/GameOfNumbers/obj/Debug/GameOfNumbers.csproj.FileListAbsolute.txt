@@ -1,0 +1,5 @@
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\GameOfNumbers\bin\Debug\GameOfNumbers.exe.config
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\GameOfNumbers\bin\Debug\GameOfNumbers.exe
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\GameOfNumbers\bin\Debug\GameOfNumbers.pdb
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\GameOfNumbers\obj\Debug\GameOfNumbers.exe
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\GameOfNumbers\obj\Debug\GameOfNumbers.pdb

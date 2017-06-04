@@ -1,0 +1,5 @@
+C:\Users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\BeerKegs\bin\Debug\BeerKegs.exe.config
+C:\Users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\BeerKegs\bin\Debug\BeerKegs.exe
+C:\Users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\BeerKegs\bin\Debug\BeerKegs.pdb
+C:\Users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\BeerKegs\obj\Debug\BeerKegs.exe
+C:\Users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\BeerKegs\obj\Debug\BeerKegs.pdb

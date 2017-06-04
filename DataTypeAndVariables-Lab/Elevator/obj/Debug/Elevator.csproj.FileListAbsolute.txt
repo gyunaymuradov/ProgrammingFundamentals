@@ -1,0 +1,5 @@
+c:\users\gmura\documents\visual studio 2017\Projects\DataTypeAndVariables-Lab\Elevator\bin\Debug\Elevator.exe.config
+c:\users\gmura\documents\visual studio 2017\Projects\DataTypeAndVariables-Lab\Elevator\bin\Debug\Elevator.exe
+c:\users\gmura\documents\visual studio 2017\Projects\DataTypeAndVariables-Lab\Elevator\bin\Debug\Elevator.pdb
+c:\users\gmura\documents\visual studio 2017\Projects\DataTypeAndVariables-Lab\Elevator\obj\Debug\Elevator.exe
+c:\users\gmura\documents\visual studio 2017\Projects\DataTypeAndVariables-Lab\Elevator\obj\Debug\Elevator.pdb

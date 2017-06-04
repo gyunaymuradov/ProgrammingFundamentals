@@ -1,0 +1,5 @@
+C:\Users\gmura\Documents\Visual Studio 2017\Projects\CSharpBasics-MoreExercises\PhotoGallery\bin\Debug\PhotoGallery.exe.config
+C:\Users\gmura\Documents\Visual Studio 2017\Projects\CSharpBasics-MoreExercises\PhotoGallery\bin\Debug\PhotoGallery.exe
+C:\Users\gmura\Documents\Visual Studio 2017\Projects\CSharpBasics-MoreExercises\PhotoGallery\bin\Debug\PhotoGallery.pdb
+C:\Users\gmura\Documents\Visual Studio 2017\Projects\CSharpBasics-MoreExercises\PhotoGallery\obj\Debug\PhotoGallery.exe
+C:\Users\gmura\Documents\Visual Studio 2017\Projects\CSharpBasics-MoreExercises\PhotoGallery\obj\Debug\PhotoGallery.pdb

@@ -1,0 +1,5 @@
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\5DifferentNumbers\bin\Debug\5DifferentNumbers.exe.config
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\5DifferentNumbers\bin\Debug\5DifferentNumbers.exe
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\5DifferentNumbers\bin\Debug\5DifferentNumbers.pdb
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\5DifferentNumbers\obj\Debug\5DifferentNumbers.exe
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\5DifferentNumbers\obj\Debug\5DifferentNumbers.pdb

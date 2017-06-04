@@ -1,0 +1,6 @@
+c:\users\gmura\documents\visual studio 2017\Projects\DataTypeAndVariables-Lab\CenturiesToMinutes\bin\Debug\CenturiesToMinutes.exe.config
+c:\users\gmura\documents\visual studio 2017\Projects\DataTypeAndVariables-Lab\CenturiesToMinutes\bin\Debug\CenturiesToMinutes.exe
+c:\users\gmura\documents\visual studio 2017\Projects\DataTypeAndVariables-Lab\CenturiesToMinutes\bin\Debug\CenturiesToMinutes.pdb
+c:\users\gmura\documents\visual studio 2017\Projects\DataTypeAndVariables-Lab\CenturiesToMinutes\obj\Debug\CenturiesToMinutes.csprojResolveAssemblyReference.cache
+c:\users\gmura\documents\visual studio 2017\Projects\DataTypeAndVariables-Lab\CenturiesToMinutes\obj\Debug\CenturiesToMinutes.exe
+c:\users\gmura\documents\visual studio 2017\Projects\DataTypeAndVariables-Lab\CenturiesToMinutes\obj\Debug\CenturiesToMinutes.pdb

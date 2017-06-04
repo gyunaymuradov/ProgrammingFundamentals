@@ -1,0 +1,5 @@
+C:\Users\gmura\Documents\Visual Studio 2017\Projects\DataTypesAndVariables-MoreExercises\WaterOverflow\bin\Debug\WaterOverflow.exe.config
+C:\Users\gmura\Documents\Visual Studio 2017\Projects\DataTypesAndVariables-MoreExercises\WaterOverflow\bin\Debug\WaterOverflow.exe
+C:\Users\gmura\Documents\Visual Studio 2017\Projects\DataTypesAndVariables-MoreExercises\WaterOverflow\bin\Debug\WaterOverflow.pdb
+C:\Users\gmura\Documents\Visual Studio 2017\Projects\DataTypesAndVariables-MoreExercises\WaterOverflow\obj\Debug\WaterOverflow.exe
+C:\Users\gmura\Documents\Visual Studio 2017\Projects\DataTypesAndVariables-MoreExercises\WaterOverflow\obj\Debug\WaterOverflow.pdb

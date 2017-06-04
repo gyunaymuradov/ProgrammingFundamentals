@@ -1,0 +1,6 @@
+c:\users\gmura\documents\visual studio 2017\Projects\CSharpBasics-MoreExercises\VaporStore\bin\Debug\VaporStore.exe.config
+c:\users\gmura\documents\visual studio 2017\Projects\CSharpBasics-MoreExercises\VaporStore\bin\Debug\VaporStore.exe
+c:\users\gmura\documents\visual studio 2017\Projects\CSharpBasics-MoreExercises\VaporStore\bin\Debug\VaporStore.pdb
+c:\users\gmura\documents\visual studio 2017\Projects\CSharpBasics-MoreExercises\VaporStore\obj\Debug\VaporStore.exe
+c:\users\gmura\documents\visual studio 2017\Projects\CSharpBasics-MoreExercises\VaporStore\obj\Debug\VaporStore.pdb
+c:\users\gmura\documents\visual studio 2017\Projects\CSharpBasics-MoreExercises\VaporStore\obj\Debug\VaporStore.csprojResolveAssemblyReference.cache

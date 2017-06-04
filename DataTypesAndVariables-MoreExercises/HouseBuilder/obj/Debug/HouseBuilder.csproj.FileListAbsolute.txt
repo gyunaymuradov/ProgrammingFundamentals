@@ -1,0 +1,6 @@
+C:\Users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\HouseBuilder\bin\Debug\HouseBuilder.exe.config
+C:\Users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\HouseBuilder\bin\Debug\HouseBuilder.exe
+C:\Users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\HouseBuilder\bin\Debug\HouseBuilder.pdb
+C:\Users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\HouseBuilder\obj\Debug\HouseBuilder.csprojResolveAssemblyReference.cache
+C:\Users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\HouseBuilder\obj\Debug\HouseBuilder.exe
+C:\Users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\HouseBuilder\obj\Debug\HouseBuilder.pdb

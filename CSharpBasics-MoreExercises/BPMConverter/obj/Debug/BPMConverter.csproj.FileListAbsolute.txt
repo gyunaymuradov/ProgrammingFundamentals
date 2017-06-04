@@ -1,0 +1,6 @@
+C:\Users\gmura\Documents\Visual Studio 2017\Projects\CSharpBasics-MoreExercises\BPMConverter\bin\Debug\BPMConverter.exe.config
+C:\Users\gmura\Documents\Visual Studio 2017\Projects\CSharpBasics-MoreExercises\BPMConverter\bin\Debug\BPMConverter.exe
+C:\Users\gmura\Documents\Visual Studio 2017\Projects\CSharpBasics-MoreExercises\BPMConverter\bin\Debug\BPMConverter.pdb
+C:\Users\gmura\Documents\Visual Studio 2017\Projects\CSharpBasics-MoreExercises\BPMConverter\obj\Debug\BPMConverter.exe
+C:\Users\gmura\Documents\Visual Studio 2017\Projects\CSharpBasics-MoreExercises\BPMConverter\obj\Debug\BPMConverter.pdb
+C:\Users\gmura\documents\visual studio 2017\Projects\CSharpBasics-MoreExercises\BPMConverter\obj\Debug\BPMConverter.csprojResolveAssemblyReference.cache

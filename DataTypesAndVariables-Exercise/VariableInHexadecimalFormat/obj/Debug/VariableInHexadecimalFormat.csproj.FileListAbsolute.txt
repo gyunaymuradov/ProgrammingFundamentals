@@ -1,0 +1,5 @@
+c:\users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-Exercise\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.exe.config
+c:\users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-Exercise\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.exe
+c:\users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-Exercise\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.pdb
+c:\users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-Exercise\VariableInHexadecimalFormat\obj\Debug\VariableInHexadecimalFormat.exe
+c:\users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-Exercise\VariableInHexadecimalFormat\obj\Debug\VariableInHexadecimalFormat.pdb

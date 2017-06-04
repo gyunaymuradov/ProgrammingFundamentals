@@ -1,0 +1,5 @@
+C:\Users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-Exercise\ReversedChars\bin\Debug\ReversedChars.exe.config
+C:\Users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-Exercise\ReversedChars\bin\Debug\ReversedChars.exe
+C:\Users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-Exercise\ReversedChars\bin\Debug\ReversedChars.pdb
+C:\Users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-Exercise\ReversedChars\obj\Debug\ReversedChars.exe
+C:\Users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-Exercise\ReversedChars\obj\Debug\ReversedChars.pdb

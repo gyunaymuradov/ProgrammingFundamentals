@@ -1,0 +1,5 @@
+c:\users\gmura\documents\visual studio 2017\Projects\CSharpIntroAndBasicSyntax-Lab\AddTwoNumbers\bin\Debug\AddTwoNumbers.exe.config
+c:\users\gmura\documents\visual studio 2017\Projects\CSharpIntroAndBasicSyntax-Lab\AddTwoNumbers\bin\Debug\AddTwoNumbers.exe
+c:\users\gmura\documents\visual studio 2017\Projects\CSharpIntroAndBasicSyntax-Lab\AddTwoNumbers\bin\Debug\AddTwoNumbers.pdb
+c:\users\gmura\documents\visual studio 2017\Projects\CSharpIntroAndBasicSyntax-Lab\AddTwoNumbers\obj\Debug\AddTwoNumbers.exe
+c:\users\gmura\documents\visual studio 2017\Projects\CSharpIntroAndBasicSyntax-Lab\AddTwoNumbers\obj\Debug\AddTwoNumbers.pdb

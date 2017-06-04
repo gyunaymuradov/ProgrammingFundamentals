@@ -1,0 +1,5 @@
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Lab\BackIn30Minutes\bin\Debug\BackIn30Minutes.exe.config
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Lab\BackIn30Minutes\bin\Debug\BackIn30Minutes.exe
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Lab\BackIn30Minutes\bin\Debug\BackIn30Minutes.pdb
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Lab\BackIn30Minutes\obj\Debug\BackIn30Minutes.exe
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Lab\BackIn30Minutes\obj\Debug\BackIn30Minutes.pdb

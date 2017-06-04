@@ -1,0 +1,5 @@
+C:\Users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-Exercise\IntegerToHexAndBinary\bin\Debug\IntegerToHexAndBinary.exe.config
+C:\Users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-Exercise\IntegerToHexAndBinary\bin\Debug\IntegerToHexAndBinary.exe
+C:\Users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-Exercise\IntegerToHexAndBinary\bin\Debug\IntegerToHexAndBinary.pdb
+C:\Users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-Exercise\IntegerToHexAndBinary\obj\Debug\IntegerToHexAndBinary.exe
+C:\Users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-Exercise\IntegerToHexAndBinary\obj\Debug\IntegerToHexAndBinary.pdb

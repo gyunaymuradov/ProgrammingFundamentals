@@ -1,0 +1,6 @@
+c:\users\gmura\documents\visual studio 2017\Projects\CSharpBasics-MoreExercises\X\bin\Debug\X.exe.config
+c:\users\gmura\documents\visual studio 2017\Projects\CSharpBasics-MoreExercises\X\bin\Debug\X.exe
+c:\users\gmura\documents\visual studio 2017\Projects\CSharpBasics-MoreExercises\X\bin\Debug\X.pdb
+c:\users\gmura\documents\visual studio 2017\Projects\CSharpBasics-MoreExercises\X\obj\Debug\X.csprojResolveAssemblyReference.cache
+c:\users\gmura\documents\visual studio 2017\Projects\CSharpBasics-MoreExercises\X\obj\Debug\X.exe
+c:\users\gmura\documents\visual studio 2017\Projects\CSharpBasics-MoreExercises\X\obj\Debug\X.pdb

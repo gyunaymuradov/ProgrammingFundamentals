@@ -1,0 +1,5 @@
+C:\Users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-Exercise\PrintPartOfASCIITable\bin\Debug\PrintPartOfASCIITable.exe.config
+C:\Users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-Exercise\PrintPartOfASCIITable\bin\Debug\PrintPartOfASCIITable.exe
+C:\Users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-Exercise\PrintPartOfASCIITable\bin\Debug\PrintPartOfASCIITable.pdb
+C:\Users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-Exercise\PrintPartOfASCIITable\obj\Debug\PrintPartOfASCIITable.exe
+C:\Users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-Exercise\PrintPartOfASCIITable\obj\Debug\PrintPartOfASCIITable.pdb

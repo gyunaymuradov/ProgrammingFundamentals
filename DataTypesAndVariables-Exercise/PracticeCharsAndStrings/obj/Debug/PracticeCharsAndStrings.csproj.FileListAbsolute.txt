@@ -1,0 +1,5 @@
+c:\users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-Exercise\PracticeCharsAndStrings\bin\Debug\PracticeCharsAndStrings.exe.config
+c:\users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-Exercise\PracticeCharsAndStrings\bin\Debug\PracticeCharsAndStrings.exe
+c:\users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-Exercise\PracticeCharsAndStrings\bin\Debug\PracticeCharsAndStrings.pdb
+c:\users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-Exercise\PracticeCharsAndStrings\obj\Debug\PracticeCharsAndStrings.exe
+c:\users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-Exercise\PracticeCharsAndStrings\obj\Debug\PracticeCharsAndStrings.pdb

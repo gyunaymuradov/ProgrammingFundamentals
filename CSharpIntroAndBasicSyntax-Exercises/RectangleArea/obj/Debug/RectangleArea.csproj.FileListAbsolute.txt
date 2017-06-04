@@ -1,0 +1,5 @@
+c:\users\gmura\documents\visual studio 2017\Projects\CSharpIntroAndBasicSyntax-Exercises\RectangleArea\bin\Debug\RectangleArea.exe.config
+c:\users\gmura\documents\visual studio 2017\Projects\CSharpIntroAndBasicSyntax-Exercises\RectangleArea\bin\Debug\RectangleArea.exe
+c:\users\gmura\documents\visual studio 2017\Projects\CSharpIntroAndBasicSyntax-Exercises\RectangleArea\bin\Debug\RectangleArea.pdb
+c:\users\gmura\documents\visual studio 2017\Projects\CSharpIntroAndBasicSyntax-Exercises\RectangleArea\obj\Debug\RectangleArea.exe
+c:\users\gmura\documents\visual studio 2017\Projects\CSharpIntroAndBasicSyntax-Exercises\RectangleArea\obj\Debug\RectangleArea.pdb

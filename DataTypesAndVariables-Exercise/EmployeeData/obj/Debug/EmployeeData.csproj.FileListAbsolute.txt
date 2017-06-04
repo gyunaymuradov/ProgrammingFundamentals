@@ -1,0 +1,6 @@
+C:\Users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-Exercise\EmployeeData\bin\Debug\EmployeeData.exe.config
+C:\Users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-Exercise\EmployeeData\bin\Debug\EmployeeData.exe
+C:\Users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-Exercise\EmployeeData\bin\Debug\EmployeeData.pdb
+C:\Users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-Exercise\EmployeeData\obj\Debug\EmployeeData.csprojResolveAssemblyReference.cache
+C:\Users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-Exercise\EmployeeData\obj\Debug\EmployeeData.exe
+C:\Users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-Exercise\EmployeeData\obj\Debug\EmployeeData.pdb

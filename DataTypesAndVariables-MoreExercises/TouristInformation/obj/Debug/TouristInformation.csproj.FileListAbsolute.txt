@@ -1,0 +1,5 @@
+C:\Users\gmura\Documents\Visual Studio 2017\Projects\DataTypesAndVariables-MoreExercises\TouristInformation\bin\Debug\TouristInformation.exe.config
+C:\Users\gmura\Documents\Visual Studio 2017\Projects\DataTypesAndVariables-MoreExercises\TouristInformation\bin\Debug\TouristInformation.exe
+C:\Users\gmura\Documents\Visual Studio 2017\Projects\DataTypesAndVariables-MoreExercises\TouristInformation\bin\Debug\TouristInformation.pdb
+C:\Users\gmura\Documents\Visual Studio 2017\Projects\DataTypesAndVariables-MoreExercises\TouristInformation\obj\Debug\TouristInformation.exe
+C:\Users\gmura\Documents\Visual Studio 2017\Projects\DataTypesAndVariables-MoreExercises\TouristInformation\obj\Debug\TouristInformation.pdb

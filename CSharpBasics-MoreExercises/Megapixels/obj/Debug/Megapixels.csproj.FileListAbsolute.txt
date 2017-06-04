@@ -1,0 +1,6 @@
+C:\Users\gmura\Documents\Visual Studio 2017\Projects\CSharpBasics-MoreExercises\Megapixels\bin\Debug\Megapixels.exe.config
+C:\Users\gmura\Documents\Visual Studio 2017\Projects\CSharpBasics-MoreExercises\Megapixels\bin\Debug\Megapixels.exe
+C:\Users\gmura\Documents\Visual Studio 2017\Projects\CSharpBasics-MoreExercises\Megapixels\bin\Debug\Megapixels.pdb
+C:\Users\gmura\Documents\Visual Studio 2017\Projects\CSharpBasics-MoreExercises\Megapixels\obj\Debug\Megapixels.csprojResolveAssemblyReference.cache
+C:\Users\gmura\Documents\Visual Studio 2017\Projects\CSharpBasics-MoreExercises\Megapixels\obj\Debug\Megapixels.exe
+C:\Users\gmura\Documents\Visual Studio 2017\Projects\CSharpBasics-MoreExercises\Megapixels\obj\Debug\Megapixels.pdb

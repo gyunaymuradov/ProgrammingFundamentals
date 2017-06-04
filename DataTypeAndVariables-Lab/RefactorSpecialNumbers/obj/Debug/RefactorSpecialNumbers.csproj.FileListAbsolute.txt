@@ -1,0 +1,5 @@
+c:\users\gmura\documents\visual studio 2017\Projects\DataTypeAndVariables-Lab\RefactorSpecialNumbers\bin\Debug\RefactorSpecialNumbers.exe.config
+c:\users\gmura\documents\visual studio 2017\Projects\DataTypeAndVariables-Lab\RefactorSpecialNumbers\bin\Debug\RefactorSpecialNumbers.exe
+c:\users\gmura\documents\visual studio 2017\Projects\DataTypeAndVariables-Lab\RefactorSpecialNumbers\bin\Debug\RefactorSpecialNumbers.pdb
+c:\users\gmura\documents\visual studio 2017\Projects\DataTypeAndVariables-Lab\RefactorSpecialNumbers\obj\Debug\RefactorSpecialNumbers.exe
+c:\users\gmura\documents\visual studio 2017\Projects\DataTypeAndVariables-Lab\RefactorSpecialNumbers\obj\Debug\RefactorSpecialNumbers.pdb

@@ -1,0 +1,6 @@
+c:\users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\TypeBoundaries\bin\Debug\TypeBoundaries.exe.config
+c:\users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\TypeBoundaries\bin\Debug\TypeBoundaries.exe
+c:\users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\TypeBoundaries\bin\Debug\TypeBoundaries.pdb
+c:\users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\TypeBoundaries\obj\Debug\TypeBoundaries.csprojResolveAssemblyReference.cache
+c:\users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\TypeBoundaries\obj\Debug\TypeBoundaries.exe
+c:\users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\TypeBoundaries\obj\Debug\TypeBoundaries.pdb

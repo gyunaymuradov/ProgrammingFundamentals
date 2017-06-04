@@ -1,0 +1,5 @@
+c:\users\gmura\documents\visual studio 2017\Projects\DataTypeAndVariables-Lab\TripleOfLatinLetters\bin\Debug\TripleOfLatinLetters.exe.config
+c:\users\gmura\documents\visual studio 2017\Projects\DataTypeAndVariables-Lab\TripleOfLatinLetters\bin\Debug\TripleOfLatinLetters.exe
+c:\users\gmura\documents\visual studio 2017\Projects\DataTypeAndVariables-Lab\TripleOfLatinLetters\bin\Debug\TripleOfLatinLetters.pdb
+c:\users\gmura\documents\visual studio 2017\Projects\DataTypeAndVariables-Lab\TripleOfLatinLetters\obj\Debug\TripleOfLatinLetters.exe
+c:\users\gmura\documents\visual studio 2017\Projects\DataTypeAndVariables-Lab\TripleOfLatinLetters\obj\Debug\TripleOfLatinLetters.pdb

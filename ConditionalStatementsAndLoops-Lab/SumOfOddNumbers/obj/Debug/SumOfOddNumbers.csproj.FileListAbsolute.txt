@@ -1,0 +1,5 @@
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Lab\SumOfOddNumbers\bin\Debug\SumOfOddNumbers.exe.config
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Lab\SumOfOddNumbers\bin\Debug\SumOfOddNumbers.exe
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Lab\SumOfOddNumbers\bin\Debug\SumOfOddNumbers.pdb
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Lab\SumOfOddNumbers\obj\Debug\SumOfOddNumbers.exe
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Lab\SumOfOddNumbers\obj\Debug\SumOfOddNumbers.pdb

@@ -1,0 +1,6 @@
+C:\Users\gmura\documents\visual studio 2017\Projects\CSharpBasics-MoreExercises\DNASequence\bin\Debug\DNASequence.exe.config
+C:\Users\gmura\documents\visual studio 2017\Projects\CSharpBasics-MoreExercises\DNASequence\bin\Debug\DNASequence.exe
+C:\Users\gmura\documents\visual studio 2017\Projects\CSharpBasics-MoreExercises\DNASequence\bin\Debug\DNASequence.pdb
+C:\Users\gmura\documents\visual studio 2017\Projects\CSharpBasics-MoreExercises\DNASequence\obj\Debug\DNASequence.csprojResolveAssemblyReference.cache
+C:\Users\gmura\documents\visual studio 2017\Projects\CSharpBasics-MoreExercises\DNASequence\obj\Debug\DNASequence.exe
+C:\Users\gmura\documents\visual studio 2017\Projects\CSharpBasics-MoreExercises\DNASequence\obj\Debug\DNASequence.pdb

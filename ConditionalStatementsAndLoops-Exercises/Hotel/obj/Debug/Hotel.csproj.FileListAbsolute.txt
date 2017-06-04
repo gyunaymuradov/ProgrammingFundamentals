@@ -1,0 +1,6 @@
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\Hotel\bin\Debug\Hotel.exe.config
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\Hotel\bin\Debug\Hotel.exe
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\Hotel\bin\Debug\Hotel.pdb
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\Hotel\obj\Debug\Hotel.csprojResolveAssemblyReference.cache
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\Hotel\obj\Debug\Hotel.exe
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\Hotel\obj\Debug\Hotel.pdb

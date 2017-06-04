@@ -1,0 +1,5 @@
+C:\Users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-Exercise\ConvertSpeedUnits\bin\Debug\ConvertSpeedUnits.exe.config
+C:\Users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-Exercise\ConvertSpeedUnits\bin\Debug\ConvertSpeedUnits.exe
+C:\Users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-Exercise\ConvertSpeedUnits\bin\Debug\ConvertSpeedUnits.pdb
+C:\Users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-Exercise\ConvertSpeedUnits\obj\Debug\ConvertSpeedUnits.exe
+C:\Users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-Exercise\ConvertSpeedUnits\obj\Debug\ConvertSpeedUnits.pdb

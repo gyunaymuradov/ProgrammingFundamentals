@@ -1,0 +1,5 @@
+c:\users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-Exercise\PracticeFloatingPointNumbers\bin\Debug\PracticeFloatingPointNumbers.exe.config
+c:\users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-Exercise\PracticeFloatingPointNumbers\bin\Debug\PracticeFloatingPointNumbers.exe
+c:\users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-Exercise\PracticeFloatingPointNumbers\bin\Debug\PracticeFloatingPointNumbers.pdb
+c:\users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-Exercise\PracticeFloatingPointNumbers\obj\Debug\PracticeFloatingPointNumbers.exe
+c:\users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-Exercise\PracticeFloatingPointNumbers\obj\Debug\PracticeFloatingPointNumbers.pdb

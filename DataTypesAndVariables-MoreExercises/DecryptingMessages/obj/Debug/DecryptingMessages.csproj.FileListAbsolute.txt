@@ -1,0 +1,5 @@
+C:\Users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\DecryptingMessages\bin\Debug\DecryptingMessages.exe.config
+C:\Users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\DecryptingMessages\bin\Debug\DecryptingMessages.exe
+C:\Users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\DecryptingMessages\bin\Debug\DecryptingMessages.pdb
+C:\Users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\DecryptingMessages\obj\Debug\DecryptingMessages.exe
+C:\Users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\DecryptingMessages\obj\Debug\DecryptingMessages.pdb

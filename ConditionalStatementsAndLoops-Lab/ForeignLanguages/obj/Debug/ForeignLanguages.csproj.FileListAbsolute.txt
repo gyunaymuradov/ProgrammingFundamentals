@@ -1,0 +1,5 @@
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Lab\ForeignLanguages\bin\Debug\ForeignLanguages.exe.config
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Lab\ForeignLanguages\bin\Debug\ForeignLanguages.exe
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Lab\ForeignLanguages\bin\Debug\ForeignLanguages.pdb
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Lab\ForeignLanguages\obj\Debug\ForeignLanguages.exe
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Lab\ForeignLanguages\obj\Debug\ForeignLanguages.pdb

@@ -1,0 +1,5 @@
+c:\users\gmura\documents\visual studio 2017\Projects\CSharpIntroAndBasicSyntax-Exercises\BeverageLabels\bin\Debug\BeverageLabels.exe.config
+c:\users\gmura\documents\visual studio 2017\Projects\CSharpIntroAndBasicSyntax-Exercises\BeverageLabels\bin\Debug\BeverageLabels.exe
+c:\users\gmura\documents\visual studio 2017\Projects\CSharpIntroAndBasicSyntax-Exercises\BeverageLabels\bin\Debug\BeverageLabels.pdb
+c:\users\gmura\documents\visual studio 2017\Projects\CSharpIntroAndBasicSyntax-Exercises\BeverageLabels\obj\Debug\BeverageLabels.exe
+c:\users\gmura\documents\visual studio 2017\Projects\CSharpIntroAndBasicSyntax-Exercises\BeverageLabels\obj\Debug\BeverageLabels.pdb

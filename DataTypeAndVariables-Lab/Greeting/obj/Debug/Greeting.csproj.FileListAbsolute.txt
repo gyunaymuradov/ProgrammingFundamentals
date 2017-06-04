@@ -1,0 +1,5 @@
+c:\users\gmura\documents\visual studio 2017\Projects\DataTypeAndVariables-Lab\Greeting\bin\Debug\Greeting.exe.config
+c:\users\gmura\documents\visual studio 2017\Projects\DataTypeAndVariables-Lab\Greeting\bin\Debug\Greeting.exe
+c:\users\gmura\documents\visual studio 2017\Projects\DataTypeAndVariables-Lab\Greeting\bin\Debug\Greeting.pdb
+c:\users\gmura\documents\visual studio 2017\Projects\DataTypeAndVariables-Lab\Greeting\obj\Debug\Greeting.exe
+c:\users\gmura\documents\visual studio 2017\Projects\DataTypeAndVariables-Lab\Greeting\obj\Debug\Greeting.pdb

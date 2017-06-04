@@ -1,0 +1,6 @@
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\CountTheIntegers\bin\Debug\CountTheIntegers.exe.config
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\CountTheIntegers\bin\Debug\CountTheIntegers.exe
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\CountTheIntegers\bin\Debug\CountTheIntegers.pdb
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\CountTheIntegers\obj\Debug\CountTheIntegers.csprojResolveAssemblyReference.cache
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\CountTheIntegers\obj\Debug\CountTheIntegers.exe
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\CountTheIntegers\obj\Debug\CountTheIntegers.pdb

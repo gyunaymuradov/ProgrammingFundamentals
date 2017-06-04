@@ -1,0 +1,6 @@
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Lab\TheatrePromotion\bin\Debug\TheatrePromotion.exe.config
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Lab\TheatrePromotion\bin\Debug\TheatrePromotion.exe
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Lab\TheatrePromotion\bin\Debug\TheatrePromotion.pdb
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Lab\TheatrePromotion\obj\Debug\TheatrePromotion.csprojResolveAssemblyReference.cache
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Lab\TheatrePromotion\obj\Debug\TheatrePromotion.exe
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Lab\TheatrePromotion\obj\Debug\TheatrePromotion.pdb

@@ -1,0 +1,5 @@
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\RestaurantDiscount\bin\Debug\RestaurantDiscount.exe.config
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\RestaurantDiscount\bin\Debug\RestaurantDiscount.exe
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\RestaurantDiscount\bin\Debug\RestaurantDiscount.pdb
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\RestaurantDiscount\obj\Debug\RestaurantDiscount.exe
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\RestaurantDiscount\obj\Debug\RestaurantDiscount.pdb

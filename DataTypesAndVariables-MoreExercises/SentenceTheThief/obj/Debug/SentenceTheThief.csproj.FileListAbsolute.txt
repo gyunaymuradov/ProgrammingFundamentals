@@ -1,0 +1,6 @@
+C:\Users\gmura\Documents\Visual Studio 2017\Projects\DataTypesAndVariables-MoreExercises\SentenceTheThief\bin\Debug\SentenceTheThief.exe.config
+C:\Users\gmura\Documents\Visual Studio 2017\Projects\DataTypesAndVariables-MoreExercises\SentenceTheThief\bin\Debug\SentenceTheThief.exe
+C:\Users\gmura\Documents\Visual Studio 2017\Projects\DataTypesAndVariables-MoreExercises\SentenceTheThief\bin\Debug\SentenceTheThief.pdb
+C:\Users\gmura\Documents\Visual Studio 2017\Projects\DataTypesAndVariables-MoreExercises\SentenceTheThief\obj\Debug\SentenceTheThief.csprojResolveAssemblyReference.cache
+C:\Users\gmura\Documents\Visual Studio 2017\Projects\DataTypesAndVariables-MoreExercises\SentenceTheThief\obj\Debug\SentenceTheThief.exe
+C:\Users\gmura\Documents\Visual Studio 2017\Projects\DataTypesAndVariables-MoreExercises\SentenceTheThief\obj\Debug\SentenceTheThief.pdb

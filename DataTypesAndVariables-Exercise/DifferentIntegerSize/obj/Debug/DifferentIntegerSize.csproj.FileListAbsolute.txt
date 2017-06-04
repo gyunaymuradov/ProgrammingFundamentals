@@ -1,0 +1,5 @@
+C:\Users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-Exercise\DifferentIntegerSize\bin\Debug\DifferentIntegerSize.exe.config
+C:\Users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-Exercise\DifferentIntegerSize\bin\Debug\DifferentIntegerSize.exe
+C:\Users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-Exercise\DifferentIntegerSize\bin\Debug\DifferentIntegerSize.pdb
+C:\Users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-Exercise\DifferentIntegerSize\obj\Debug\DifferentIntegerSize.exe
+C:\Users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-Exercise\DifferentIntegerSize\obj\Debug\DifferentIntegerSize.pdb

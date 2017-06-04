@@ -1,0 +1,5 @@
+C:\Users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-Exercise\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.exe.config
+C:\Users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-Exercise\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.exe
+C:\Users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-Exercise\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.pdb
+C:\Users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-Exercise\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.exe
+C:\Users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-Exercise\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.pdb

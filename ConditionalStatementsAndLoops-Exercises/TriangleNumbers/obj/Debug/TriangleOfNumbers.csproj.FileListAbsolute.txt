@@ -1,0 +1,5 @@
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\TriangleNumbers\bin\Debug\TriangleNumbers.exe.config
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\TriangleNumbers\bin\Debug\TriangleNumbers.exe
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\TriangleNumbers\bin\Debug\TriangleNumbers.pdb
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\TriangleNumbers\obj\Debug\TriangleNumbers.exe
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\TriangleNumbers\obj\Debug\TriangleNumbers.pdb

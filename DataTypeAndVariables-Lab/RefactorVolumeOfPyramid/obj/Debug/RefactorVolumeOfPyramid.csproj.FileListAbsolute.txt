@@ -1,0 +1,5 @@
+c:\users\gmura\documents\visual studio 2017\Projects\DataTypeAndVariables-Lab\RefactorVolumeOfPyramid\bin\Debug\RefactorVolumeOfPyramid.exe.config
+c:\users\gmura\documents\visual studio 2017\Projects\DataTypeAndVariables-Lab\RefactorVolumeOfPyramid\bin\Debug\RefactorVolumeOfPyramid.exe
+c:\users\gmura\documents\visual studio 2017\Projects\DataTypeAndVariables-Lab\RefactorVolumeOfPyramid\bin\Debug\RefactorVolumeOfPyramid.pdb
+c:\users\gmura\documents\visual studio 2017\Projects\DataTypeAndVariables-Lab\RefactorVolumeOfPyramid\obj\Debug\RefactorVolumeOfPyramid.exe
+c:\users\gmura\documents\visual studio 2017\Projects\DataTypeAndVariables-Lab\RefactorVolumeOfPyramid\obj\Debug\RefactorVolumeOfPyramid.pdb

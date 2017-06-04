@@ -1,0 +1,5 @@
+c:\users\gmura\documents\visual studio 2017\Projects\DataTypeAndVariables-Lab\CircleAreaPrecision\bin\Debug\CircleAreaPrecision.exe.config
+c:\users\gmura\documents\visual studio 2017\Projects\DataTypeAndVariables-Lab\CircleAreaPrecision\bin\Debug\CircleAreaPrecision.exe
+c:\users\gmura\documents\visual studio 2017\Projects\DataTypeAndVariables-Lab\CircleAreaPrecision\bin\Debug\CircleAreaPrecision.pdb
+c:\users\gmura\documents\visual studio 2017\Projects\DataTypeAndVariables-Lab\CircleAreaPrecision\obj\Debug\CircleAreaPrecision.exe
+c:\users\gmura\documents\visual studio 2017\Projects\DataTypeAndVariables-Lab\CircleAreaPrecision\obj\Debug\CircleAreaPrecision.pdb

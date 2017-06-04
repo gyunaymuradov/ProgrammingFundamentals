@@ -1,0 +1,5 @@
+C:\Users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-Exercise\StringsAndObjects\bin\Debug\StringsAndObjects.exe.config
+C:\Users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-Exercise\StringsAndObjects\bin\Debug\StringsAndObjects.exe
+C:\Users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-Exercise\StringsAndObjects\bin\Debug\StringsAndObjects.pdb
+C:\Users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-Exercise\StringsAndObjects\obj\Debug\StringsAndObjects.exe
+C:\Users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-Exercise\StringsAndObjects\obj\Debug\StringsAndObjects.pdb

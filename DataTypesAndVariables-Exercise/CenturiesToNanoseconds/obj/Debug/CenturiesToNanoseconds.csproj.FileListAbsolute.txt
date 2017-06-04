@@ -1,0 +1,5 @@
+C:\Users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-Exercise\CenturiesToNanoseconds\bin\Debug\CenturiesToNanoseconds.exe.config
+C:\Users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-Exercise\CenturiesToNanoseconds\bin\Debug\CenturiesToNanoseconds.exe
+C:\Users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-Exercise\CenturiesToNanoseconds\bin\Debug\CenturiesToNanoseconds.pdb
+C:\Users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-Exercise\CenturiesToNanoseconds\obj\Debug\CenturiesToNanoseconds.exe
+C:\Users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-Exercise\CenturiesToNanoseconds\obj\Debug\CenturiesToNanoseconds.pdb

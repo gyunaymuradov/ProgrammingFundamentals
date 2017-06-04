@@ -1,0 +1,5 @@
+C:\Users\gmura\Documents\Visual Studio 2017\Projects\DataTypesAndVariables-MoreExercises\CatchTheThief\bin\Debug\CatchTheThief.exe.config
+C:\Users\gmura\Documents\Visual Studio 2017\Projects\DataTypesAndVariables-MoreExercises\CatchTheThief\bin\Debug\CatchTheThief.exe
+C:\Users\gmura\Documents\Visual Studio 2017\Projects\DataTypesAndVariables-MoreExercises\CatchTheThief\bin\Debug\CatchTheThief.pdb
+C:\Users\gmura\Documents\Visual Studio 2017\Projects\DataTypesAndVariables-MoreExercises\CatchTheThief\obj\Debug\CatchTheThief.exe
+C:\Users\gmura\Documents\Visual Studio 2017\Projects\DataTypesAndVariables-MoreExercises\CatchTheThief\obj\Debug\CatchTheThief.pdb

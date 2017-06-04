@@ -1,0 +1,5 @@
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Lab\MonthPrinter\bin\Debug\MonthPrinter.exe.config
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Lab\MonthPrinter\bin\Debug\MonthPrinter.exe
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Lab\MonthPrinter\bin\Debug\MonthPrinter.pdb
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Lab\MonthPrinter\obj\Debug\MonthPrinter.exe
+c:\users\gmura\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Lab\MonthPrinter\obj\Debug\MonthPrinter.pdb

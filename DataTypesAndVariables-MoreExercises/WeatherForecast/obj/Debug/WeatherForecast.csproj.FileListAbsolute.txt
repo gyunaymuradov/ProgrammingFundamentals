@@ -1,0 +1,6 @@
+C:\Users\gmura\Documents\Visual Studio 2017\Projects\DataTypesAndVariables-MoreExercises\WeatherForecast\bin\Debug\WeatherForecast.exe.config
+C:\Users\gmura\Documents\Visual Studio 2017\Projects\DataTypesAndVariables-MoreExercises\WeatherForecast\bin\Debug\WeatherForecast.exe
+C:\Users\gmura\Documents\Visual Studio 2017\Projects\DataTypesAndVariables-MoreExercises\WeatherForecast\bin\Debug\WeatherForecast.pdb
+C:\Users\gmura\Documents\Visual Studio 2017\Projects\DataTypesAndVariables-MoreExercises\WeatherForecast\obj\Debug\WeatherForecast.exe
+C:\Users\gmura\Documents\Visual Studio 2017\Projects\DataTypesAndVariables-MoreExercises\WeatherForecast\obj\Debug\WeatherForecast.pdb
+C:\Users\gmura\Documents\Visual Studio 2017\Projects\DataTypesAndVariables-MoreExercises\WeatherForecast\obj\Debug\WeatherForecast.csprojResolveAssemblyReference.cache

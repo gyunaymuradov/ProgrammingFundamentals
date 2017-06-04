@@ -1,0 +1,5 @@
+C:\Users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\StringConcatenation\bin\Debug\StringConcatenation.exe.config
+C:\Users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\StringConcatenation\bin\Debug\StringConcatenation.exe
+C:\Users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\StringConcatenation\bin\Debug\StringConcatenation.pdb
+C:\Users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\StringConcatenation\obj\Debug\StringConcatenation.exe
+C:\Users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\StringConcatenation\obj\Debug\StringConcatenation.pdb
