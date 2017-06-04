@@ -1,5 +1,0 @@
-C:\Users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
-C:\Users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\ConsoleApp1\bin\Debug\ConsoleApp1.exe
-C:\Users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
-C:\Users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\ConsoleApp1\obj\Debug\ConsoleApp1.exe
-C:\Users\gmura\documents\visual studio 2017\Projects\DataTypesAndVariables-MoreExercises\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
