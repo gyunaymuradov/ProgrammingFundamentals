@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{7509ADC2-C1FE-4820-B0D1-DFDF0D18E838}</ProjectGuid>
+    <ProjectGuid>{4E14D51C-BF46-4AEC-9266-3E370375C966}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>MinMethod</RootNamespace>
-    <AssemblyName>MinMethod</AssemblyName>
+    <RootNamespace>CenterPoint</RootNamespace>
+    <AssemblyName>CenterPoint</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

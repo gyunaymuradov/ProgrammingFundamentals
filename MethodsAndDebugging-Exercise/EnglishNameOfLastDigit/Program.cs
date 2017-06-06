@@ -18,7 +18,7 @@ namespace EnglishNameOfLastDigit
 
         static void GetLastDigitName(string number)
         {
-            var num = Math.Abs(int.Parse(number));
+            var num = Math.Abs(long.Parse(number));
             var lastDigit = num % 10;
             var lastDigitName = string.Empty;
             if (lastDigit == 0)

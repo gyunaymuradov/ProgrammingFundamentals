@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeChecker", "PrimeChecke
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimesInAGivenRange", "PrimesInAGivenRange\PrimesInAGivenRange.csproj", "{51F8E14B-401D-4730-9737-D70D1510C602}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CenterPoint", "CenterPoint\CenterPoint.csproj", "{4E14D51C-BF46-4AEC-9266-3E370375C966}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{51F8E14B-401D-4730-9737-D70D1510C602}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{51F8E14B-401D-4730-9737-D70D1510C602}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{51F8E14B-401D-4730-9737-D70D1510C602}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E14D51C-BF46-4AEC-9266-3E370375C966}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E14D51C-BF46-4AEC-9266-3E370375C966}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E14D51C-BF46-4AEC-9266-3E370375C966}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E14D51C-BF46-4AEC-9266-3E370375C966}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
