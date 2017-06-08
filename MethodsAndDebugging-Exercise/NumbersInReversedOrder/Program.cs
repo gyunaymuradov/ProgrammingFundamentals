@@ -10,21 +10,22 @@ namespace NumbersInReversedOrder
     {
         static void Main(string[] args)
         {
-            var number = double.Parse(Console.ReadLine());
+            var number = decimal.Parse(Console.ReadLine());
 
-            Console.WriteLine(GetNumbersInReversedOrder(number));
+            var reversedNumber = ReverseNumDigits(number);
+
+            Console.WriteLine(reversedNumber);
         }
 
-        static double GetNumbersInReversedOrder(double number)
+        static decimal ReverseNumDigits(decimal number)
         {
-            var result = 0d;
-            while (number > 0)
+            var numToString = number.ToString();
+            var result = string.Empty;
+            for (int i = numToString.Length - 1; i >= 0; i--)
             {
-                var lastDigit = number % 10;
-                result = (result * 10) + lastDigit;
-                number /= 10;
+                result += numToString[i];
             }
-            return result;
+            return decimal.Parse(result);
         }
     }
 }
