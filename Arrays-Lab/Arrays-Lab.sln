@@ -5,8 +5,6 @@ VisualStudioVersion = 15.0.26403.7
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DayOfWeek", "DayOfWeek\DayOfWeek.csproj", "{FC4AB643-71AB-42E2-8023-45861F3C9668}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseAnArrayOfIntegers", "ReverseAnArrayOfIntegers\ReverseAnArrayOfIntegers.csproj", "{B1981AFD-C4C5-43B7-99E8-23E4AF203428}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LastKeyNumbersSum", "LastKeyNumbersSum\LastKeyNumbersSum.csproj", "{B2D22CEE-FE7A-41A7-B8A1-287CA1F18EBF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TripleSum", "TripleSum\TripleSum.csproj", "{98B78FF7-D1A7-454C-9F09-3342315D5FF5}"
@@ -31,10 +29,6 @@ Global
 		{FC4AB643-71AB-42E2-8023-45861F3C9668}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC4AB643-71AB-42E2-8023-45861F3C9668}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC4AB643-71AB-42E2-8023-45861F3C9668}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B1981AFD-C4C5-43B7-99E8-23E4AF203428}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B1981AFD-C4C5-43B7-99E8-23E4AF203428}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B1981AFD-C4C5-43B7-99E8-23E4AF203428}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B1981AFD-C4C5-43B7-99E8-23E4AF203428}.Release|Any CPU.Build.0 = Release|Any CPU
 		{B2D22CEE-FE7A-41A7-B8A1-287CA1F18EBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B2D22CEE-FE7A-41A7-B8A1-287CA1F18EBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B2D22CEE-FE7A-41A7-B8A1-287CA1F18EBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
