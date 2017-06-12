@@ -10,6 +10,7 @@ namespace FoldAndSum
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
