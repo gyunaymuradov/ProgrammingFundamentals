@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("MostFrecuentNumber")]
+[assembly: AssemblyTitle("ManipulateArray")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("MostFrecuentNumber")]
+[assembly: AssemblyProduct("ManipulateArray")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("8ea8ac00-af4a-495c-a6ad-f7ecf3d96a8e")]
+[assembly: Guid("026cc9d4-5bdf-4380-b5bf-1f310fc1dd69")]
 
 // Version information for an assembly consists of the following four values:
 //

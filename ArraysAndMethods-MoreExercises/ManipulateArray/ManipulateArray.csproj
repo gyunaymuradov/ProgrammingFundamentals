@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{8EA8AC00-AF4A-495C-A6AD-F7ECF3D96A8E}</ProjectGuid>
+    <ProjectGuid>{026CC9D4-5BDF-4380-B5BF-1F310FC1DD69}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>MostFrecuentNumber</RootNamespace>
-    <AssemblyName>MostFrecuentNumber</AssemblyName>
+    <RootNamespace>ManipulateArray</RootNamespace>
+    <AssemblyName>ManipulateArray</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
