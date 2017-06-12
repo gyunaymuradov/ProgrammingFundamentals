@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManipulateArray", "Manipula
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SafeManipulation", "SafeManipulation\SafeManipulation.csproj", "{196C2600-C3F7-4F86-804C-49B1B34A38F0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrabAndGo", "GrabAndGo\GrabAndGo.csproj", "{1CD0C06E-728A-4892-88C3-C6B54BF1F99F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaIngredients", "PizzaIngredients\PizzaIngredients.csproj", "{6B81F115-B16B-4ADA-B473-7B6C373BB6E9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{196C2600-C3F7-4F86-804C-49B1B34A38F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{196C2600-C3F7-4F86-804C-49B1B34A38F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{196C2600-C3F7-4F86-804C-49B1B34A38F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CD0C06E-728A-4892-88C3-C6B54BF1F99F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CD0C06E-728A-4892-88C3-C6B54BF1F99F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CD0C06E-728A-4892-88C3-C6B54BF1F99F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CD0C06E-728A-4892-88C3-C6B54BF1F99F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B81F115-B16B-4ADA-B473-7B6C373BB6E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B81F115-B16B-4ADA-B473-7B6C373BB6E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B81F115-B16B-4ADA-B473-7B6C373BB6E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B81F115-B16B-4ADA-B473-7B6C373BB6E9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
