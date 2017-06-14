@@ -49,7 +49,13 @@ namespace ChangeList
                 }
                 if (command == "Delete")
                 {
-                    integers.Remove(parameterToModify);
+                    for (int i = 0; i < integers.Count; i++)
+                    {
+                        if (integers[i] == parameterToModify)
+                        {
+                            integers.Remove(parameterToModify);
+                        }
+                    }
                 }
             }
         }
