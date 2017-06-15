@@ -27,7 +27,7 @@ namespace CountRealNumbers
             }
             foreach (var num in dict.Keys)
             {
-                Console.WriteLine($"{num} -> {dict[num]} times");
+                Console.WriteLine($"{num} -> {dict[num]}");
             }
         }
     }
