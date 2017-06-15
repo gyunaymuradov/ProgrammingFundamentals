@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phonebook", "Phonebook\Phonebook.csproj", "{81F94929-3E58-4780-8696-1BAD5B90D793}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhonebookUpgrade", "PhonebookUpgrade\PhonebookUpgrade.csproj", "{A78E364A-CBFD-4A83-8EA6-E67F4B93D620}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AMinerTask", "AMinerTask\AMinerTask.csproj", "{3A5AF733-EDC9-4678-A4F8-E6120034974E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FixEmails", "FixEmails\FixEmails.csproj", "{329099BE-E71C-4CF9-B93F-BF2B1C670556}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81F94929-3E58-4780-8696-1BAD5B90D793}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81F94929-3E58-4780-8696-1BAD5B90D793}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81F94929-3E58-4780-8696-1BAD5B90D793}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81F94929-3E58-4780-8696-1BAD5B90D793}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A78E364A-CBFD-4A83-8EA6-E67F4B93D620}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A78E364A-CBFD-4A83-8EA6-E67F4B93D620}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A78E364A-CBFD-4A83-8EA6-E67F4B93D620}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A78E364A-CBFD-4A83-8EA6-E67F4B93D620}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A5AF733-EDC9-4678-A4F8-E6120034974E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A5AF733-EDC9-4678-A4F8-E6120034974E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A5AF733-EDC9-4678-A4F8-E6120034974E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A5AF733-EDC9-4678-A4F8-E6120034974E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{329099BE-E71C-4CF9-B93F-BF2B1C670556}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{329099BE-E71C-4CF9-B93F-BF2B1C670556}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{329099BE-E71C-4CF9-B93F-BF2B1C670556}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{329099BE-E71C-4CF9-B93F-BF2B1C670556}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
