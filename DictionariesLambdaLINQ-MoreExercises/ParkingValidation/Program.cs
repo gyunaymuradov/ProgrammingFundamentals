@@ -23,6 +23,7 @@ namespace ParkingValidation
                 if (command == "register")
                 {
                     var plate = token[2];
+                    bool isValid = CheckIfPlateIsValid(plate);
 
                     if (registryDict.ContainsKey(name))
                     {
@@ -34,28 +35,27 @@ namespace ParkingValidation
                     }
                     else
                     {
-                        bool isValid = CheckIfPlateIsValid(plate);
-                        if (isValid)
+                        if (!isValid)
+                        {
+                            Console.WriteLine($"ERROR: invalid license plate {plate}");
+                        }
+                        else
                         {
                             registryDict[name] = plate;
                             Console.WriteLine($"{name} registered {plate} successfully");
                         }
-                        else
-                        {
-                            Console.WriteLine($"ERROR: invalid license plate {plate}");
-                        }
                     }
                 }
-                else if (command == "unregister")
+                else
                 {
-                    if (!registryDict.ContainsKey(name))
+                    if (registryDict.ContainsKey(name))
                     {
-                        Console.WriteLine($"ERROR: user {name} not found");
+                        Console.WriteLine($"user {name} unregistered successfully");
+                        registryDict.Remove(name);
                     }
                     else
                     {
-                        registryDict.Remove(name);
-                        Console.WriteLine($"user {name} unregistered successfully");
+                        Console.WriteLine($"ERROR: user {name} not found");
                     }
                 }
             }
@@ -77,7 +77,7 @@ namespace ParkingValidation
                 {
                     return false;
                 }
-                if (char.IsLower(letter))
+                if (!char.IsUpper(letter))
                 {
                     return false;
                 }
@@ -88,7 +88,7 @@ namespace ParkingValidation
                 {
                     return false;
                 }
-                if (char.IsLower(letter))
+                if (!char.IsUpper(letter))
                 {
                     return false;
                 }

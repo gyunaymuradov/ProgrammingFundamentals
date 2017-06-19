@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SupermarketDatabase", "Supe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParkingValidation", "ParkingValidation\ParkingValidation.csproj", "{958733F5-089C-48FB-B906-0B798DB1B83D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ByteFlip", "ByteFlip\ByteFlip.csproj", "{86926B14-F3C9-4041-9A19-8C0B0F9E1F18}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{958733F5-089C-48FB-B906-0B798DB1B83D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{958733F5-089C-48FB-B906-0B798DB1B83D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{958733F5-089C-48FB-B906-0B798DB1B83D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86926B14-F3C9-4041-9A19-8C0B0F9E1F18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86926B14-F3C9-4041-9A19-8C0B0F9E1F18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86926B14-F3C9-4041-9A19-8C0B0F9E1F18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86926B14-F3C9-4041-9A19-8C0B0F9E1F18}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
