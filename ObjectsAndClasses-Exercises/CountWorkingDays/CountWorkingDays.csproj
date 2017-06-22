@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{ED588E64-A67A-4A57-9C4D-A9FA40FDAE9D}</ProjectGuid>
+    <ProjectGuid>{0E3EB489-0C25-45A3-9ED6-AE6786E68892}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>exercises</RootNamespace>
-    <AssemblyName>exercises</AssemblyName>
+    <RootNamespace>CountWorkingDays</RootNamespace>
+    <AssemblyName>CountWorkingDays</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
