@@ -11,14 +11,12 @@ namespace WriteToFile
     {
         static void Main(string[] args)
         {
-            var text = File.ReadAllText("input.txt");
-            char[] symbols = new[] { '.', ',', '!', '?', ':', ' ', '\t','\n'};
-
-            var words = text.Split(symbols, StringSplitOptions.RemoveEmptyEntries).ToList();
+            string[] text = File.ReadAllText("input.txt").Split(new[] { '.', ',', '!', '?', ':' });
             
-            var output = string.Join(" ", words);
+            string[] output = new string[64];
+            output = text.SkipWhile(c => c == "." || c == "," || c == "!" || c == "?" || c == ":").ToArray();
+            File.WriteAllText("output.txt", string.Join("", output));
 
-            File.WriteAllText("output.txt", output);
         }
     }
 }
