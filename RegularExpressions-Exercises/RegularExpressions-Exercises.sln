@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtractEmails", "ExtractEmails\ExtractEmails.csproj", "{E2E0F379-E066-42C5-911F-3CAC076CE352}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtractSentencesByKeyWord", "ExtractSentencesByKeyWord\ExtractSentencesByKeyWord.csproj", "{D857D07A-FD5E-4542-A307-9ABA8B977C09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CameraView", "CameraView\CameraView.csproj", "{36A10018-3545-4935-A46F-94A556F52DEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weather", "Weather\Weather.csproj", "{8334C418-9F09-49B5-BC32-6E89C34F8BF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyReplacer", "KeyReplacer\KeyReplacer.csproj", "{7CB9B31E-4F04-45F9-A4A4-8D3710A2DEC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UseYourChainsBuddy", "UseYourChainsBuddy\UseYourChainsBuddy.csproj", "{91F39CDB-EEE9-49E3-833C-4CA105DF2C0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2E0F379-E066-42C5-911F-3CAC076CE352}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2E0F379-E066-42C5-911F-3CAC076CE352}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2E0F379-E066-42C5-911F-3CAC076CE352}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2E0F379-E066-42C5-911F-3CAC076CE352}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D857D07A-FD5E-4542-A307-9ABA8B977C09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D857D07A-FD5E-4542-A307-9ABA8B977C09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D857D07A-FD5E-4542-A307-9ABA8B977C09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D857D07A-FD5E-4542-A307-9ABA8B977C09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36A10018-3545-4935-A46F-94A556F52DEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36A10018-3545-4935-A46F-94A556F52DEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36A10018-3545-4935-A46F-94A556F52DEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36A10018-3545-4935-A46F-94A556F52DEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8334C418-9F09-49B5-BC32-6E89C34F8BF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8334C418-9F09-49B5-BC32-6E89C34F8BF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8334C418-9F09-49B5-BC32-6E89C34F8BF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8334C418-9F09-49B5-BC32-6E89C34F8BF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CB9B31E-4F04-45F9-A4A4-8D3710A2DEC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CB9B31E-4F04-45F9-A4A4-8D3710A2DEC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CB9B31E-4F04-45F9-A4A4-8D3710A2DEC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CB9B31E-4F04-45F9-A4A4-8D3710A2DEC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91F39CDB-EEE9-49E3-833C-4CA105DF2C0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91F39CDB-EEE9-49E3-833C-4CA105DF2C0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91F39CDB-EEE9-49E3-833C-4CA105DF2C0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91F39CDB-EEE9-49E3-833C-4CA105DF2C0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

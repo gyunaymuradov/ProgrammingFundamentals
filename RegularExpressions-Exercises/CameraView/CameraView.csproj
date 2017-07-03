@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{5360665E-8868-4582-9E2F-9070C28E4885}</ProjectGuid>
+    <ProjectGuid>{36A10018-3545-4935-A46F-94A556F52DEF}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>SumBigNumbers</RootNamespace>
-    <AssemblyName>SumBigNumbers</AssemblyName>
+    <RootNamespace>CameraView</RootNamespace>
+    <AssemblyName>CameraView</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -33,7 +33,6 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
-    <Reference Include="System.Numerics" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
