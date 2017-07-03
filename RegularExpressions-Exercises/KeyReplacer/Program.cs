@@ -11,20 +11,33 @@ namespace KeyReplacer
     {
         static void Main(string[] args)
         {
-            var regex = @"\b(?<day>[\d]{2})(\.|-|\/)(?<month>[A-Z]{1}[a-z]{2})\1(?<year>\d{4})";
-            var input = Console.ReadLine();
-            var result = Regex.Matches(input, regex);
+            string startEndPattern = @"^(?<start>[A-z]+)(\||<|\\).*(\||<|\\)(?<end>[A-z]+)$";
 
-            foreach (Match date in result)
+            string startEndString = Console.ReadLine();
+
+            Match startEnd = Regex.Match(startEndString, startEndPattern);
+
+            string start = startEnd.Groups["start"].Value;
+            string end = startEnd.Groups["end"].Value;
+
+            string wordPattern = start + @"(.*?)" + end;
+
+            string text = Console.ReadLine();
+
+            string[] words = Regex.Matches(text, wordPattern)
+                .Cast<Match>()
+                .Select(w => w.Groups[1].Value)
+                .Where(w => w != "")
+                .ToArray();
+
+            if (words.Length != 0)
             {
-                var day = date.Groups["day"].Value;
-                var month = date.Groups["month"].Value;
-                var year = date.Groups["year"].Value;
-
-                Console.WriteLine($"Day: {day}, Month: {month}, Year: {year}");
+                Console.WriteLine(string.Join("", words));
             }
-
-
+            else
+            {
+                Console.WriteLine("Empty result");
+            }
         }
     }
 }

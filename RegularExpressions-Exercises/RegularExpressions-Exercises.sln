@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyReplacer", "KeyReplacer\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UseYourChainsBuddy", "UseYourChainsBuddy\UseYourChainsBuddy.csproj", "{91F39CDB-EEE9-49E3-833C-4CA105DF2C0D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidUsernames", "ValidUsernames\ValidUsernames.csproj", "{53D34D33-F993-48E1-AECA-312E702816EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueryMess", "QueryMess\QueryMess.csproj", "{7A557D5E-D83C-48C0-BBB5-94034E3163FB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{91F39CDB-EEE9-49E3-833C-4CA105DF2C0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91F39CDB-EEE9-49E3-833C-4CA105DF2C0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{91F39CDB-EEE9-49E3-833C-4CA105DF2C0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53D34D33-F993-48E1-AECA-312E702816EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53D34D33-F993-48E1-AECA-312E702816EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53D34D33-F993-48E1-AECA-312E702816EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53D34D33-F993-48E1-AECA-312E702816EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A557D5E-D83C-48C0-BBB5-94034E3163FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A557D5E-D83C-48C0-BBB5-94034E3163FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A557D5E-D83C-48C0-BBB5-94034E3163FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A557D5E-D83C-48C0-BBB5-94034E3163FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
