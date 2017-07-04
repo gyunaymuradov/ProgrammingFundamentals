@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SinoTheWalker", "SinoTheWal
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftUniKaraoke", "SoftUniKaraoke\SoftUniKaraoke.csproj", "{DC6DC385-7E10-4228-87CA-42507522117D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnduranceRally", "EnduranceRally\EnduranceRally.csproj", "{957DB0EF-AFEF-470A-BA76-833E95B97B4D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{DC6DC385-7E10-4228-87CA-42507522117D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC6DC385-7E10-4228-87CA-42507522117D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC6DC385-7E10-4228-87CA-42507522117D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{957DB0EF-AFEF-470A-BA76-833E95B97B4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{957DB0EF-AFEF-470A-BA76-833E95B97B4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{957DB0EF-AFEF-470A-BA76-833E95B97B4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{957DB0EF-AFEF-470A-BA76-833E95B97B4D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Numerics;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -10,26 +11,26 @@ namespace CharityMaraton
     {
         static void Main(string[] args)
         {
-            var lengthOfMarathonInDays = int.Parse(Console.ReadLine());
-            var numberOfRunners = long.Parse(Console.ReadLine());
-            var averageNumberOfLaps = int.Parse(Console.ReadLine());
-            var trackLength = long.Parse(Console.ReadLine());
+            var marathonDays = int.Parse(Console.ReadLine());
+            var totalRunners = int.Parse(Console.ReadLine());
+            var averageLaps = int.Parse(Console.ReadLine());
+            var lapLength = int.Parse(Console.ReadLine());
             var trackCapacity = int.Parse(Console.ReadLine());
-            var donatedMoneyPerKm = decimal.Parse(Console.ReadLine());
+            var moneyPerKm = decimal.Parse(Console.ReadLine());
 
-            var totalParticipants = 0l;
-            if (numberOfRunners <= trackCapacity * lengthOfMarathonInDays)
+            BigInteger totalLaps = 0;
+            if (trackCapacity * marathonDays >= totalRunners)
             {
-                totalParticipants = numberOfRunners;
+                totalLaps = totalRunners * averageLaps;
             }
             else
             {
-                totalParticipants = trackCapacity * lengthOfMarathonInDays;
+                totalLaps = trackCapacity * marathonDays * averageLaps;
             }
 
-            var donatedMoney = totalParticipants * trackLength * averageNumberOfLaps * donatedMoneyPerKm / 1000;
+            decimal moneyRaised = (decimal)((totalLaps * lapLength) / 1000) * moneyPerKm;
 
-            Console.WriteLine($"Money raised: {donatedMoney:F2}");
+            Console.WriteLine($"Money raised: {moneyRaised:F2}");
         }
     }
 }

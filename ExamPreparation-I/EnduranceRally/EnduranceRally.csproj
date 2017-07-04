@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{5F457BED-4487-45FE-A210-68F4A064EEE5}</ProjectGuid>
+    <ProjectGuid>{957DB0EF-AFEF-470A-BA76-833E95B97B4D}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>CharityMaraton</RootNamespace>
-    <AssemblyName>CharityMaraton</AssemblyName>
+    <RootNamespace>EnduranceRally</RootNamespace>
+    <AssemblyName>EnduranceRally</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -33,7 +33,6 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
-    <Reference Include="System.Numerics" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />

@@ -10,69 +10,72 @@ namespace SoftUniKaraoke
     {
         static void Main(string[] args)
         {
-            var participants = Console.ReadLine().Split(new char[] { ',', ' ' }, StringSplitOptions.RemoveEmptyEntries)
-                .ToArray();
-            var availableSongs = Console.ReadLine().Split(',').ToList();
-            var trimmedSongs = new List<string>();
+            var participants = Console.ReadLine().Split(',').ToList();
+            var songs = Console.ReadLine().Split(',').ToList();
+            var partList = new List<Participant>();
 
-            var listOfParicipantsAndAwards = new List<Participant>();
-
-            foreach (var song in availableSongs)
+            for (int i = 0; i < participants.Count; i++)
             {
-                trimmedSongs.Add(song.Trim());
+                participants[i] = participants[i].Trim();
+            }
+            for (int i = 0; i < songs.Count; i++)
+            {
+                songs[i] = songs[i].Trim();
             }
 
             var input = Console.ReadLine();
             while (input != "dawn")
             {
-                var tokens = input.Split(',').ToArray();
-                var participantName = tokens[0];
+                var tokens = input.Split(',');
+                var participant = tokens[0].Trim();
                 var song = tokens[1].Trim();
                 var award = tokens[2].Trim();
 
-                if (participants.Contains(participantName) && trimmedSongs.Contains(song))
+                if (participants.Contains(participant) && songs.Contains(song))
                 {
-                    if (!listOfParicipantsAndAwards.Any(a => a.Name == participantName))
+                    if (!partList.Any(a => a.Name == participant))
                     {
                         var newParticipant = new Participant();
-                        newParticipant.Name = participantName;
+                        newParticipant.Name = participant;
                         newParticipant.Awards = new List<string>();
                         newParticipant.Awards.Add(award);
-                        listOfParicipantsAndAwards.Add(newParticipant);
+                        partList.Add(newParticipant);
                     }
                     else
                     {
-                        var participant = listOfParicipantsAndAwards.FindIndex(a => a.Name == participantName);
-                        if (listOfParicipantsAndAwards[participant].Awards.Contains(award))
+                        var index = partList.FindIndex(a => a.Name == participant);
+                        if (partList[index].Awards.Contains(award))
                         {
                             input = Console.ReadLine();
                             continue;
                         }
                         else
                         {
-                            listOfParicipantsAndAwards[participant].Awards.Add(award);
+                            partList[index].Awards.Add(award);
                         }
+
                     }
                 }
                 input = Console.ReadLine();
             }
-            foreach (var participant in listOfParicipantsAndAwards.OrderByDescending(a => a.Awards.Count)
-                .ThenBy(a => a.Name))
+            var awardsCount = 0;
+            foreach (var participant in partList.OrderByDescending(a => a.Awards.Count).ThenBy(a => a.Name))
             {
-                var awardsCount = participant.Awards.Count;
-                Console.WriteLine($"{participant.Name}: {awardsCount} awards");
-                foreach (var award in participant.Awards.OrderBy(a => a))
+                var name = participant.Name;
+                var awards = participant.Awards;
+                Console.WriteLine($"{name}: {awards.Count} awards");
+                foreach (var award in awards.OrderBy(a => a))
                 {
                     Console.WriteLine($"--{award}");
+                    awardsCount++;
                 }
             }
-            if (listOfParicipantsAndAwards.Count == 0)
+            if (awardsCount == 0)
             {
                 Console.WriteLine("No awards");
             }
         }
     }
-
     class Participant
     {
         public string Name { get; set; }
