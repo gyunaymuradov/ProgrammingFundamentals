@@ -11,9 +11,8 @@ namespace NetherRealms
     {
         static void Main(string[] args)
         {
-            var names = Console.ReadLine().Split(new char[] { ',', ' ' }, StringSplitOptions.RemoveEmptyEntries).ToArray().ToList();
+            var names = Console.ReadLine().Split(new char[] { ',', ' ' }, StringSplitOptions.RemoveEmptyEntries).ToList();
             List<char> invalidSymbols = new List<char> { '+', '-', '*', '/', '.' };
-            names.OrderBy(a => a);
 
             var dict = new SortedDictionary<string, Dictionary<long, decimal>>();
 

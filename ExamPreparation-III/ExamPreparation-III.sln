@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftuniCoffeeOrders", "Soft
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandInterpreter", "CommandInterpreter\CommandInterpreter.csproj", "{16135A6B-0493-4B62-87B6-A46F82054F05}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RageQuit", "RageQuit\RageQuit.csproj", "{371F75B9-3AA7-4190-821A-5F9BFE29C74D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{16135A6B-0493-4B62-87B6-A46F82054F05}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{16135A6B-0493-4B62-87B6-A46F82054F05}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{16135A6B-0493-4B62-87B6-A46F82054F05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{371F75B9-3AA7-4190-821A-5F9BFE29C74D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{371F75B9-3AA7-4190-821A-5F9BFE29C74D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{371F75B9-3AA7-4190-821A-5F9BFE29C74D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{371F75B9-3AA7-4190-821A-5F9BFE29C74D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
