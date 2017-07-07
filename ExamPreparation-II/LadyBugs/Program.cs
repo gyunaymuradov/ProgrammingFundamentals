@@ -12,95 +12,12 @@ namespace LadyBugs
         static void Main(string[] args)
         {
             var fieldSize = int.Parse(Console.ReadLine());
-            var lbIndexes = Console.ReadLine().Split(' ').Select(long.Parse).ToArray();
+            var index = Console.ReadLine().Split(' ').Select(int.Parse).ToList();
 
-            List<int> ladyBugList = CreateLadyBugField(fieldSize, lbIndexes);
-            var command = Console.ReadLine();
-
-            while (command != "end")
-            {
-                var tokens = command.Split(' ').ToList();
-                var ladyBugIndex = int.Parse(tokens[0]);
-                var direction = tokens[1];
-                var flyLength = int.Parse(tokens[2]);
-                if (flyLength < 0)
-                {
-                    direction = "right";
-                }
-                if (ladyBugIndex < 0 || ladyBugIndex >= ladyBugList.Count || ladyBugList[ladyBugIndex] == 0)
-                {
-                    command = Console.ReadLine();
-                    continue;
-                }
-                ladyBugList[ladyBugIndex] = 0;
-                if (direction == "right")
-                {
-                    var landingIndex = ladyBugIndex + Math.Abs(flyLength);
-                    if (landingIndex >= ladyBugList.Count)
-                    {
-                        command = Console.ReadLine();
-                        continue;
-                    }
-                    if (ladyBugList[landingIndex] == 1)
-                    {
-                        while (landingIndex <= ladyBugList.Count)
-                        {
-                            landingIndex += flyLength;
-                            if (landingIndex >= ladyBugList.Count)
-                            {
-                                break;
-                            }
-                            if (ladyBugList[landingIndex] == 0)
-                            {
-                                ladyBugList[landingIndex] = 1;
-                                break;
-                            }
-                        }
-                    }
-                    else
-                    {
-                        ladyBugList[landingIndex] = 1;
-                    }
-                }
-                else
-                {
-                    var landingIndex = ladyBugIndex - flyLength;
-                    if (landingIndex < 0)
-                    {
-                        command = Console.ReadLine();
-                        continue;
-                    }
-                    if (ladyBugList[landingIndex] == 1)
-                    {
-                        while (landingIndex >= 0)
-                        {
-                            landingIndex -= flyLength;
-                            if (landingIndex < 0)
-                            {
-                                break;
-                            }
-                            if (ladyBugList[landingIndex] == 0)
-                            {
-                                ladyBugList[landingIndex] = 1;
-                                break;
-                            }
-                        }
-                    }
-                    else
-                    {
-                        ladyBugList[landingIndex] = 1;
-                    }
-                }
-                command = Console.ReadLine();
-            }
-            Console.WriteLine(string.Join(" ", ladyBugList));
-        }
-        private static List<int> CreateLadyBugField(int fieldSize, long[] lbIndexes)
-        {
             var lbList = new List<int>();
             for (int i = 0; i < fieldSize; i++)
             {
-                if (lbIndexes.Contains(i))
+                if (index.Contains(i))
                 {
                     lbList.Add(1);
                 }
@@ -109,7 +26,87 @@ namespace LadyBugs
                     lbList.Add(0);
                 }
             }
-            return lbList;
+            var input = Console.ReadLine();
+            while (input != "end")
+            {
+                var tokens = input.Split(' ').ToList();
+                var lbIndex = int.Parse(tokens[0]);
+                var direction = tokens[1];
+                var flyLength = int.Parse(tokens[2]);
+                if (flyLength < 0)
+                {
+                    direction = "right";
+                }
+                if (lbIndex < 0 || lbIndex > lbList.Count - 1 || lbList[lbIndex] == 0)
+                {
+                    input = Console.ReadLine();
+                    continue;
+                }
+                if (direction == "right")
+                {
+
+                    if (flyLength + lbIndex >= lbList.Count)
+                    {
+                        lbList[lbIndex] = 0;
+                        input = Console.ReadLine();
+                        continue;
+                    }
+                    var landingIndex = Math.Abs(flyLength) + lbIndex;
+                    lbList[lbIndex] = 0;
+                    if (lbList[landingIndex] == 0)
+                    {
+                        lbList[landingIndex] = 1;
+                    }
+                    else
+                    {
+                        while (lbList[landingIndex] == 1)
+                        {
+                            landingIndex += flyLength;
+                            if (landingIndex >= lbList.Count)
+                            {
+                                break;
+                            }
+                            if (lbList[landingIndex] == 0)
+                            {
+                                lbList[landingIndex] = 1;
+                                break;
+                            }
+                        }
+                    }
+                }
+                else if (direction == "left")
+                {
+                    var landingIndex = lbIndex - flyLength;
+                    lbList[lbIndex] = 0;
+                    if (landingIndex < 0)
+                    {
+                        input = Console.ReadLine();
+                        continue;
+                    }
+                    if (lbList[landingIndex] == 0)
+                    {
+                        lbList[landingIndex] = 1;
+                    }
+                    else
+                    {
+                        while (lbList[landingIndex] == 1)
+                        {
+                            landingIndex -= flyLength;
+                            if (landingIndex < 0)
+                            {
+                                break;
+                            }
+                            if (lbList[landingIndex] == 0)
+                            {
+                                lbList[landingIndex] = 1;
+                                break;
+                            }
+                        }
+                    }
+                }
+                input = Console.ReadLine();
+            }
+            Console.WriteLine(string.Join(" ", lbList));
         }
     }
 }

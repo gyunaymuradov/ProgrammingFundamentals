@@ -13,15 +13,23 @@ namespace SoftuniCoffeeOrders
         {
             var ordersCount = int.Parse(Console.ReadLine());
             decimal totalPrice = 0;
+            var prices = new List<decimal>();
 
             for (int i = 0; i < ordersCount; i++)
             {
-                decimal pricePerCapsule = decimal.Parse(Console.ReadLine());
-                var orderDate = DateTime.ParseExact(Console.ReadLine(), "d/M/yyyy", CultureInfo.InvariantCulture);
+                var pricePerCapsule = decimal.Parse(Console.ReadLine());
+                var date = DateTime.ParseExact(Console.ReadLine(), "d/M/yyyy", CultureInfo.InvariantCulture);
                 var capsulesCount = long.Parse(Console.ReadLine());
-                decimal coffeePrice = (DateTime.DaysInMonth(orderDate.Year, orderDate.Month) * capsulesCount) * pricePerCapsule;
-                totalPrice += coffeePrice;
-                Console.WriteLine($"The price for the coffee is: ${coffeePrice:F2}");
+
+                decimal price = pricePerCapsule * capsulesCount * DateTime.DaysInMonth(date.Year, date.Month);
+                totalPrice += price;
+                prices.Add(price);
+
+            }
+            foreach (var price in prices)
+            {
+                Console.WriteLine($"The price for the coffee is: ${price:F2}");
+
             }
             Console.WriteLine($"Total: ${totalPrice:F2}");
         }
