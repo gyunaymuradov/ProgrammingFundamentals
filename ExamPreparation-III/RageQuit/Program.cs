@@ -23,7 +23,6 @@ namespace RageQuit
                     {
                         uniqueSymbols.Add(text[i]);
                     }
-                    // aSd2&5s@1
                     var symbols = new StringBuilder();
                     while (i < text.Length && !char.IsDigit(text[i]))
                     {
@@ -37,7 +36,6 @@ namespace RageQuit
                         num.Append(text[i]);
                         i++;
                     }
-                    // aSd2&5s@1
                     var parsedNum = int.Parse(num.ToString());
                     var multipliedString = new StringBuilder();
                     for (int j = 0; j < parsedNum; j++)

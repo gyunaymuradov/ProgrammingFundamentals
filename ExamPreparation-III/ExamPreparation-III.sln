@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandInterpreter", "Comma
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RageQuit", "RageQuit\RageQuit.csproj", "{371F75B9-3AA7-4190-821A-5F9BFE29C74D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Files", "Files\Files.csproj", "{2FD51370-43FB-45E2-8241-5BFB0BA2B834}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cubic'sMessages", "Cubic'sMessages\Cubic'sMessages.csproj", "{D75E06E8-B00E-488B-9714-E04FB18B3F43}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{371F75B9-3AA7-4190-821A-5F9BFE29C74D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{371F75B9-3AA7-4190-821A-5F9BFE29C74D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{371F75B9-3AA7-4190-821A-5F9BFE29C74D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FD51370-43FB-45E2-8241-5BFB0BA2B834}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FD51370-43FB-45E2-8241-5BFB0BA2B834}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FD51370-43FB-45E2-8241-5BFB0BA2B834}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FD51370-43FB-45E2-8241-5BFB0BA2B834}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D75E06E8-B00E-488B-9714-E04FB18B3F43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D75E06E8-B00E-488B-9714-E04FB18B3F43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D75E06E8-B00E-488B-9714-E04FB18B3F43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D75E06E8-B00E-488B-9714-E04FB18B3F43}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
